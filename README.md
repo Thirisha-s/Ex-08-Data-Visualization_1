@@ -138,7 +138,9 @@ name: tip, dtype: float64
 Average total bill amount by size of dining party: size 1 7.242500 2 16.448013 3 23.277632 4 28.613514 5 30.068000 6 34.830000 
 Name: total_bill, dtype: float64
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization_1/assets/120380280/bf8b49ad-7054-4d34-ada1-fbb475c363a3)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization_1/assets/120380280/7044aeaa-d06d-406f-a7d2-0c3c520593bb)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization_1/assets/120380280/0d3c83c2-b30d-476f-9791-70fdfa5135e2)
 Correlation coefficient between total_bill and tip: 0.6757341092113641
 

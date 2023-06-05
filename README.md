@@ -128,9 +128,11 @@ Name: tip_percentage, dtype: float64
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization_1/assets/120380280/f143cf81-2acf-485d-8bfb-7b27424289c6)
 Average tip amount by gender: sex Male 3.089618 Female 2.833448
 name: tip, dtype: float64
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization_1/assets/120380280/f5caa188-9fda-4013-8f77-b398eb78db2e)
 
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization_1/assets/120380280/dd74bedc-e256-49c9-9f01-500b1f9ba3cb)
+
 ![image](https://github.com/Thirisha-s/Ex-08-Data-Visualization_1/assets/120380280/242acdc8-5db6-4695-a6a0-19054a329f6f)
 
 Average total bill amount by size of dining party: size 1 7.242500 2 16.448013 3 23.277632 4 28.613514 5 30.068000 6 34.830000 

@@ -142,6 +142,3 @@ Correlation coefficient between total_bill and tip: 0.6757341092113641
 
 ## RESULT
 Thus, Data Visualization on a complex dataset and save the data to a file has been performed successfully.
-
-
-
